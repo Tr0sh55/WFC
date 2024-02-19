@@ -36,6 +36,9 @@ public class WaveFunctionCollapse : MonoBehaviour
         {
             ClearGrid();
             StartCoroutine(GenerateCoroutine());
+        } else if (Input.GetKeyDown(KeyCode.C))
+        {
+            while (ProcessCells()){} { }
         }
     }
 
