@@ -31,4 +31,4 @@ The WFC algorithm works by collapsing a superposition of possible tiles into a s
 ## Requirements
 
 - Unity 2019.4 LTS or newer recommended for compatibility.
-- Basic understanding of Unity's GameObjects, Prefabs, and Coroutine system.
+- Basic understanding of Unity's GameObjects and Prefabs
