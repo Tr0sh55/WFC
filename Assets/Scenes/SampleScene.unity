@@ -261,10 +261,10 @@ MonoBehaviour:
   - {fileID: 6192005313760315252, guid: 00fd271818677fa4f90e509c9b016065, type: 3}
   - {fileID: 6571704224548422415, guid: 350197467ca1b564aa55b77c74dc1d46, type: 3}
   fillerTilePrefab: {fileID: 2715481857090157884, guid: cd892227c805b1645bb56a9f4cebc535, type: 3}
-  gridWidth: 40
-  gridHeight: 40
+  gridWidth: 10
+  gridHeight: 10
   tileParent: {fileID: 1652793986}
-  tilePadding: -0.1
+  tilePadding: -0.05
   collapseDelay: 0
 --- !u!4 &1297379647
 Transform:
