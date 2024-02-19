@@ -20,7 +20,7 @@ The WFC algorithm works by collapsing a superposition of possible tiles into a s
 4. **Grid Dimensions:** Set the `gridWidth` and `gridHeight` to define the size of the generation area.
 5. **Tile Padding:** Adjust `tilePadding` to control the spacing between tiles.
 6. **Collapse Delay:** Use `collapseDelay` to set the pause duration between successive collapses, which is helpful for visualizing the algorithm's progress.
-7. **Define Tiles** Add the `TileDirectionSetter` script to each of your prefabs, specifying, in which direction another tile is compatible. 
+7. **Define Tiles** Add the `/scripts/TileDirectionSetter.cs` script to each of your prefabs, specifying, in which direction another tile is compatible. 
 8. **Generate:** Press the space bar at runtime to clear the grid and generate a new layout.
 
 ## Implementation Details
